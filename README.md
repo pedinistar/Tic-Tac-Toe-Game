@@ -2,6 +2,8 @@
 
 Welcome to the **Tic Tac Toe Game** built with Python! This project is a text-based version of the classic Tic Tac Toe game, playable directly in the command line. The game features a player vs. computer mode with ASCII art, emojis, and clear instructions.
 
+[<img](https://www.istockphoto.com/vector/hand-drawn-vector-tic-tac-toe-game-noughts-and-crosses-doodle-sketch-gm1365567894-436384721)
+
 ## 🎮 Game Overview
 
 This is a simple Tic Tac Toe game where you play as **"X"** against the computer, which plays as **"O"**. The game alternates turns between you and the computer until there’s a winner or the game ends in a tie.
